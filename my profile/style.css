@@ -1,0 +1,46 @@
+body {
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif);
+ background-size: auto;
+ background-position: stretch;
+background-repeat: repeat;
+ }
+ .ggwp {
+  background-color: purple;
+  width:700px;
+  padding:20px;
+  margin:100px auto;
+  align-items: center;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 30px;
+  box-shadow: 0 10PX 30PX repeat(0,0,200,.1);
+
+ }
+ p {
+  font-family: 'Staatliches', cursive;
+  font-size: 20px;
+  font-weight: bold;
+ }
+
+ .gj {
+  font-family: 'Staatliches', cursive;
+  font-size: 30px;
+  font-weight: bolder;
+ }
+
+ a {
+  color:black;
+  line-height: 1px
+ }
+
+ ul {
+  list-style: none;
+  text-align: center;
+  padding:0px;
+  font-size: 60px;
+ }
+
+ li {
+  display: inline;
+  margin: 5px;
+ }
